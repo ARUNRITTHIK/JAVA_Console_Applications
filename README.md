@@ -1,9 +1,9 @@
 # JAVA_Console_Applications
 
-# ............................ATM APPLICATION............................
+# 1 -> ATM APPLICATION
 
-# ............................AMAZON APPLICATION.........................
+# 2 -> AMAZON APPLICATION
 
-# ............................RAILWAYS APPLICATION.......................
+# 3 -> RAILWAYS APPLICATION
 
-# ............................LIBRARY MANAGEMENT SYSTEM APPLICATION......
+# 4 -> LIBRARY MANAGEMENT SYSTEM APPLICATION
