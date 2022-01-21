@@ -1,4 +1,4 @@
-                                                   ADMIN [name/password]-> aa/ss  (For authentication) 
+                                                   ADMIN [name/password]-> arun/ritthik  (For authentication) 
 
 import java.util.*;
 import java.text.*;
@@ -421,7 +421,7 @@ public class library {
 
     public static void Admin(){
         clear();
-        admin.add(new library("aa","ss"));
+        admin.add(new library("arun","ritthik"));
         System.out.println("\t....................Welcome to Admin portal....................");
         System.out.println("Enter your Email ID :");
         String admin_name=sc.next();
