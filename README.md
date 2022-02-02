@@ -92,7 +92,7 @@
         EXIT => 1-Exit
                      |=> This will take you to the exit.        
 
-# 3 -> LIBRARY MANAGEMENT SYSTEM APPLICATION  [ User_Name = "arun"] / [ Email = "arun@gmail.com" ] / [Password ="ritthik"]
+# 3 -> LIBRARY MANAGEMENT SYSTEM APPLICATION  => [ User_Name = "arun"] / [ Email = "arun@gmail.com" ] / [Password ="ritthik"]
 
            ADMIN => 1-Login
                       |=> Using this feature the admin can login to the "admin portal",
@@ -131,7 +131,7 @@
         EXIT => 7-Exit
                      |=> This will take you to the exit.    
 
-# 4 -> RAILWAYS APPLICATION 
+# 4 -> RAILWAYS APPLICATION  =>  [ User_Name = "arun"] / [Password ="ritthik"]
 
          ADMIN => 1-Login
                       |=> Using this feature the admin can login to the "admin portal",
@@ -170,7 +170,7 @@
         EXIT => 7-Exit
                      |=> This will take you to the exit.    
 
-# 5 -> SPLITWISE APPLICATION
+# 5 -> SPLITWISE APPLICATION  => [ User_Name = "arun"] / [Password ="ritthik"]
 
         USER => 1-New User
                      |=> Using this feature the User can sign-up to the portal
